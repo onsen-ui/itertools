@@ -1,0 +1,19 @@
+{
+  "name": "itertools",
+  "version": "0.0.1",
+  "description": "itertools for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onsen-ui/itertools.git"
+  },
+  "author": "'Onsen <'onsen03@gmail.com'> ('https://github.com/onsen-ui')",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onsen-ui/itertools/issues"
+  },
+  "homepage": "https://github.com/onsen-ui/itertools#readme"
+}
